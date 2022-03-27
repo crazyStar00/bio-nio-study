@@ -1,4 +1,4 @@
-package nio_chat;
+package nio.chat;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
